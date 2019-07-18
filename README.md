@@ -1,6 +1,6 @@
 # Cleansing Youtube Trending Data in Kaggle
 
-This repo contains scripts for data cleasning of a dataset in [Kaggle](https://www.kaggle.com/datasnaek/youtube). Scripts are written in Python 3.
+This repo contains scripts for data cleansing of a dataset in [Kaggle](https://www.kaggle.com/datasnaek/youtube). Scripts are written in Python 3.
 
 ## Pre-requisites
 
@@ -21,7 +21,7 @@ To clean the data and output them to `cleansed`, use
 
 A detailed discussion on how to clean this dataset is available in `notebook`.
 
-Two json manifest files are also provided if one is interested to visualize the data in AWS QuickSight, a BI tool developed by AWS. Please be reminded to change `<BUCKET_NAME>` to your own S3 bucket name.
+Two json manifest files are also provided if one is interested to visualize the data in AWS QuickSight, a BI tool developed by AWS. Please be reminded to change `<BUCKET_NAME>` to your own S3 bucket name in json manifest files.
 
 ## Remarks
 
